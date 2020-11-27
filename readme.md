@@ -1,6 +1,5 @@
 
 ## demo
-![xj](img/1.png)
 ![xj](img/2.png)
 ![xj](img/3.png)
 ![xj](img/4.png)
